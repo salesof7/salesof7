@@ -8,6 +8,6 @@
   >
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=F2F2F2&text_color=BF5A501&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=F2F2F2&text_color=BF5A50&langs_count=6"
   >
 </div>
