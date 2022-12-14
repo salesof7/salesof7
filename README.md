@@ -1,7 +1,7 @@
 **About me** <img height="14em" width="14em" src="https://super.so/icon/light/coffee.svg"> :
 
 
-**About codes** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
+**About code** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
 
 <div align="center">
   <a href="https://github.com/salesof7">
