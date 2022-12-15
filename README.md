@@ -5,14 +5,10 @@
 
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
-<code><img height="20" alt="python" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png"></code>
-<code><img height="20" alt="django" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png"></code>
-<code><img height="20" alt="reactjs" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"></code>
-<code><img height="20" alt="jestjs" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_snapshot_icon_130513.png"></code>
-<code><img height="20" alt="nodejs" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"></code>
-<code><img height="20" alt="graphql" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png"></code>
-<code><img height="20" alt="nestjs" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nestjs_icon_130355.png"></code>
+<code><img height="20" alt="django" src="https://img.stackshare.io/service/994/4aGjtNQv.png"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
+<code><img height="20" alt="nodejs" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
+<code><img height="20" alt="python" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/cf02b27f-ab1b-4a50-ad17-4aa4e0368a94.jpg"></code>
 
 <div align="center">
   <a href="https://github.com/salesof7">
