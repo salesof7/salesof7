@@ -6,8 +6,8 @@
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
 <code><img height="20" alt="django" src="https://img.stackshare.io/service/994/4aGjtNQv.png"></code>
+<code><img height="20" width="20" alt="nodejs" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
-<code><img height="20" alt="nodejs" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
 <code><img height="20" alt="python" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/cf02b27f-ab1b-4a50-ad17-4aa4e0368a94.jpg"></code>
 
 <div align="center">
