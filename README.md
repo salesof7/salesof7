@@ -29,7 +29,7 @@
   >
 </div>
 
-</br>
+<br/>
 **Contact me** <img height="14em" width="14em" src="https://super.so/icon/light/headphones.svg"> :
 
 <!-- https://icon-icons.com/pt/ -->
