@@ -28,7 +28,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=E0E0E0&text_color=6FA6A6&langs_count=6"
   >
 </div>
-  
+
+</br>
 **Contact me** <img height="14em" width="14em" src="https://super.so/icon/light/headphones.svg"> :
 
 <!-- https://icon-icons.com/pt/ -->
