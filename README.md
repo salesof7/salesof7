@@ -1,3 +1,6 @@
+**README in progress...**
+
+
 **About me** <img height="14em" width="14em" src="https://super.so/icon/light/coffee.svg"> :
 
 
@@ -26,7 +29,7 @@
   >
 </div>
   
-  
+**Contact me** <img height="14em" width="14em" src="https://super.so/icon/light/headphones.svg"> :
 
 <!-- https://icon-icons.com/pt/ -->
 <!-- https://super.so/icons-light   -->
