@@ -1,10 +1,12 @@
-**[...salesof7]**
+- **[...salesof7]**
 
 **About me** <img height="14em" width="14em" src="https://super.so/icon/light/coffee.svg"> :
 
 Hello my friends! I'm basically a backend focused developer, and I'm blessed to like coffee. I am Brazilian, very proud, heading to "hexa" and dedicated to studying with a lot of passion in really cool technologies. My goal is to be a great developer and be able to help many people through this.
 
 **About code** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
+
+I initially started studying Python in 2018 with the aim of learning AI, and I learned a lot. In 2020, I changed my perspective and began to be very interested in the web universe, which I am currently focusing on as a Backend Developer. Through this trajectory, I came into contact with several sensational technologies and hope to evolve and contribute to open-source projects.
 
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
