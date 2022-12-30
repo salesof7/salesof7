@@ -1,8 +1,8 @@
-**README in progress...**
-
+**[...salesof7]**
 
 **About me** <img height="14em" width="14em" src="https://super.so/icon/light/coffee.svg"> :
 
+Hello my friends! I'm basically a backend focused developer, and I'm blessed to like coffee. I am Brazilian, very proud, heading to "hexa" and dedicated to studying with a lot of passion in really cool technologies. My goal is to be a great developer and be able to help many people through this.
 
 **About code** <img height="14em" width="14em" src="https://super.so/icon/light/git-merge.svg"> :
 
