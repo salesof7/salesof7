@@ -8,7 +8,7 @@ I initially started studying Python in 2018 with the aim of learning AI, and I l
 
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
-<code><img height="20" alt="python" src="https://static.cloud-boxloja.com/lojas/wyfyg/produtos/cf02b27f-ab1b-4a50-ad17-4aa4e0368a94.jpg"></code>
+<code><img height="21" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
 <code><img height="20" alt="aws" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png"></code>
 <code><img height="20" width="20" alt="nest" src="https://www.codewithvlad.com/assets/svg/nest-logo.svg"></code>
