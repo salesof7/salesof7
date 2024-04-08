@@ -25,7 +25,7 @@ I initially started studying Python in 2018 with the aim of learning AI, and I l
   >
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=salesof7&layout=compact&theme=ayu-mirage&title_color=E0E0E0&text_color=6FA6A6&langs_count=6"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=E0E0E0&text_color=6FA6A6&langs_count=6"
   >
 </div>
 
