@@ -14,10 +14,10 @@ Currently focused on deepening my expertise in distributed systems, cloud, and A
 
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
-<code><img height="21" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></code>
+<code><img height="21" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
 <code><img height="20" alt="aws" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png"></code>
-<code><img height="20" width="20" alt="nest" src="https://www.codewithvlad.com/assets/svg/nest-logo.svg"></code>
+<code><img height="20" width="20" alt="nest" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
 <code><img height="20" alt="django" src="https://img.stackshare.io/service/994/4aGjtNQv.png"></code>
 <code><img height="20" alt="html" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/HTML5.png"></code>
 <code><img height="20" alt="css" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png"></code>
