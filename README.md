@@ -12,28 +12,28 @@ Started with Python in 2018 exploring AI, and later transitioned into backend en
 Today, I design scalable architectures, build cloud-native applications, and develop systems focused on performance and reliability.  
 Currently focused on deepening my expertise in distributed systems, cloud, and AI.
 
+<code><img height="20" alt="golang" src="https://ih1.redbubble.net/image.246611714.0222/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"></code>
 <code><img height="20" alt="typescript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png"></code>
 <code><img height="20" alt="javascript" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png"></code>
 <code><img height="21" alt="python" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"></code>
 <code><img height="20" alt="docker" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_tile_logo_icon_168248.png"></code>
 <code><img height="20" alt="aws" src="https://www.inovex.de/wp-content/uploads/Amazon_Web_Services_Logo-kl.png"></code>
-<code><img height="20" width="20" alt="nest" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
+<code><img height="20" alt="nest" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"></code>
 <code><img height="20" alt="django" src="https://img.stackshare.io/service/994/4aGjtNQv.png"></code>
 <code><img height="20" alt="html" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/HTML5.png"></code>
 <code><img height="20" alt="css" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-512.png"></code>
 <code><img height="20" alt="arch" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png"></code>
 
-<div align="center">
-  <a href="https://github.com/salesof7">
+<!-- <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=salesof7&theme=ayu-mirage&title_color=02665C&ring_color=264773&show_icons=true&icon_color=6FA6A6&text_color=E0E0E0&count_private=true"
-  >
+    src="https://github-readme-stats-bw3bgn1sc-salesof7.vercel.app/api?username=salesof7&theme=ayu-mirage&title_color=02665C&ring_color=264773&show_icons=true&icon_color=6FA6A6&text_color=E0E0E0&count_private=true"
+  />
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=E0E0E0&text_color=6FA6A6&langs_count=6"
-  >
-</div>
+    src="https://github-readme-stats-bw3bgn1sc-salesof7.vercel.app/api/top-langs/?username=salesof7&layout=compact&theme=ayu-mirage&title_color=E0E0E0&text_color=6FA6A6&langs_count=6"
+  />
+</p> -->
 
 <br/>
 
